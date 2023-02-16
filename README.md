@@ -2,5 +2,5 @@
 
 # Keyboard
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goropikari&repo=miniEC&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goropikari&repo=CorneMiniEC&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goropikari&repo=miniEC&theme=algolia)](https://github.com/goropikari/miniEC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goropikari&repo=CorneMiniEC&theme=great-gatsby)](https://github.com/goropikari/CorneMiniEC)
