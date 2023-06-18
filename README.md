@@ -12,5 +12,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goropikari&repo=psqlittle&theme=algolia)](https://github.com/goropikari/psqlittle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goropikari&repo=tlps&theme=algolia)](https://github.com/goropikari/tlps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goropikari&repo=golox&theme=algolia)](https://github.com/goropikari/golox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goropikari&repo=mysqlite&theme=algolia)](https://github.com/goropikari/mysqlite)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goropikari&repo=tlex&theme=algolia)](https://github.com/goropikari/tlex)
